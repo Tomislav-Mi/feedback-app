@@ -1,5 +1,5 @@
 # Feedback for Tilly the Cat
-- A feedback web app for the Tilly the Cat.[^1]
+- A feedback web app for Tilly the Cat.[^1]
 
 ## Key Features
 - Allows the user to leave feedback for Tilly the Cat (aka the best cat in London).
